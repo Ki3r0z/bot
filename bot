@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Roder bot initial"
 git branch -M main
-git remote add origin https://github.com/TON_USERNAME/NOM_DU_DEPOT.git
+git remote add origin https://github.com/Ki3r0z/bot.git
 git push -u origin main
